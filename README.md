@@ -1,6 +1,6 @@
-# RestroGirls
+# Online Pizza Ordering System
 
-A Simple Demo Resturant Management System Project in PHP
+A Simple Pizza Orderinvg System in PHP
 
 
-A pure custom PHP Project. Build for reference!
+
